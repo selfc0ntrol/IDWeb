@@ -7,4 +7,8 @@ JavaScript : 1b8037c68ec68c0ffca68ea634fe33c489f900c0
 PHP : 1d6ea30157b8c77ab93dd92a970d4e7780f58d90 
 Python : 374c764e7e791f88ce2fbcb0078de1fa262116ca
 React : eab887b4f393939f247fea240d03675f20d1adee
+<<<<<<< HEAD
 Ruby : 528ab299bb403777e206d4e9f0bb851a87fce3d2 
+=======
+Ruby : 528ab299bb403777e206d4e9f0bb851a87fce3d2 
+>>>>>>> 37efd196a09c1c6eb4b9061b7feccafb87a1861f
